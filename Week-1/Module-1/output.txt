@@ -1,2 +1,1 @@
-this is x: 10
-and this is c: a
+65
